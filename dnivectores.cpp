@@ -1,4 +1,5 @@
 //problema introductorio olimpiada española de informatica. https://olimpiada-informatica.org/problem/dni/dni.pdf
+// es la version mejorada del dni.cpp, utilizando vetores
 
 #include <iostream>
 #include <string>
